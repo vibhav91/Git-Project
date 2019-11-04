@@ -1,1 +1,2 @@
 First change in Feature 2 branch
+Second change in Feature 2 Branch
